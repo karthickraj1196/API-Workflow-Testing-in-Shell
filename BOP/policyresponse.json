@@ -1,0 +1,147 @@
+{
+  "attributeListDetail": {
+    "AttributeDetail": [
+      {
+        "Key": "ISO::BOP::Email::Status",
+        "Value": "Success"
+      },
+      {
+        "Key": "PayAndIssueResponseParser",
+        "Value": "Y"
+      },
+      {
+        "Key": "Object::OutputSource",
+        "Value": "QuestionHashMap"
+      },
+      {
+        "Key": "Object::Payment::PaymentStatus",
+        "Value": "Paid"
+      },
+      {
+        "Key": "ISO::BOP::Quote::Status",
+        "Value": "ISSUED"
+      },
+      {
+        "Key": "ISO::BOP::Policy::Number",
+        "Value": "1000570046"
+      },
+      {
+        "Key": "Object::Payment::InstallmentList",
+        "Value": ""
+      },
+      {
+        "Key": "ISO::BOP::Premium",
+        "Value": "793.00"
+      },
+      {
+        "Key": "ISO::BOP::Quote::Number",
+        "Value": "QOT-452834"
+      },
+      {
+        "Key": "ISO::BOP::Policy::Status",
+        "Value": "ISSUED"
+      },
+      {
+        "Key": "Object::Rule::Status",
+        "Value": "Success"
+      }
+    ]
+  },
+  "repeatedAttributeListDetail": [
+    {
+      "AttributeDetailList": [],
+      "Key": "Object::Rules:SatisfiedRuleInfoList"
+    },
+    {
+      "AttributeDetailList": [
+        {
+          "AttributeDetail": [
+            {
+              "Key": "ISO::BOP::Document::PdfFileName",
+              "Value": "StarrInsure_ISSUANCE_FEB-21-2019-8-0-18.pdf"
+            },
+            {
+              "Key": "ISO::BOP::Document::DocumentURL",
+              "Value": "https://qapdfservice.solartis.net/DocRetriever/Document/Starr/BOP/QuotePDFs/452834/StarrInsure_ISSUANCE_FEB-21-2019-8-0-18.pdf"
+            },
+            {
+              "Key": "ISO::BOP::Document::OutputFileFullLocation",
+              "Value": "/opt/SharedData/Shared/Transaction/Document/Starr/BOP/QuotePDFs/452834/"
+            },
+            {
+              "Key": "ISO::BOP::Document::DocumentType",
+              "Value": "ISSUANCE"
+            },
+            {
+              "Key": "ISO::BOP::Document::OutputPDFRelativePath",
+              "Value": "Document/Starr/BOP/QuotePDFs/452834/"
+            },
+            {
+              "Key": "ISO::BOP::Document::RelativePathWithPdfName",
+              "Value": "Document/Starr/BOP/QuotePDFs/452834/StarrInsure_ISSUANCE_FEB-21-2019-8-0-18.pdf"
+            }
+          ]
+        },
+        {
+          "AttributeDetail": [
+            {
+              "Key": "ISO::BOP::Document::PdfFileName",
+              "Value": "StarrInsure_COI_FEB-21-2019-8-0-21.pdf"
+            },
+            {
+              "Key": "ISO::BOP::Document::DocumentURL",
+              "Value": "https://qapdfservice.solartis.net/DocRetriever/Document/Starr/BOP/QuotePDFs/452834/StarrInsure_COI_FEB-21-2019-8-0-21.pdf"
+            },
+            {
+              "Key": "ISO::BOP::Document::OutputFileFullLocation",
+              "Value": "/opt/SharedData/Shared/Transaction/Document/Starr/BOP/QuotePDFs/452834/"
+            },
+            {
+              "Key": "ISO::BOP::Document::DocumentType",
+              "Value": "COI"
+            },
+            {
+              "Key": "ISO::BOP::Document::OutputPDFRelativePath",
+              "Value": "Document/Starr/BOP/QuotePDFs/452834/"
+            },
+            {
+              "Key": "ISO::BOP::Document::RelativePathWithPdfName",
+              "Value": "Document/Starr/BOP/QuotePDFs/452834/StarrInsure_COI_FEB-21-2019-8-0-21.pdf"
+            }
+          ]
+        },
+        {
+          "AttributeDetail": [
+            {
+              "Key": "ISO::BOP::Document::PdfFileName",
+              "Value": "StarrInsure_RECEIPT_FEB-21-2019-8-0-21.pdf"
+            },
+            {
+              "Key": "ISO::BOP::Document::DocumentURL",
+              "Value": "https://qapdfservice.solartis.net/DocRetriever/Document/Starr/BOP/QuotePDFs/452834/StarrInsure_RECEIPT_FEB-21-2019-8-0-21.pdf"
+            },
+            {
+              "Key": "ISO::BOP::Document::OutputFileFullLocation",
+              "Value": "/opt/SharedData/Shared/Transaction/Document/Starr/BOP/QuotePDFs/452834/"
+            },
+            {
+              "Key": "ISO::BOP::Document::DocumentType",
+              "Value": "RECEIPT"
+            },
+            {
+              "Key": "ISO::BOP::Document::OutputPDFRelativePath",
+              "Value": "Document/Starr/BOP/QuotePDFs/452834/"
+            },
+            {
+              "Key": "ISO::BOP::Document::RelativePathWithPdfName",
+              "Value": "Document/Starr/BOP/QuotePDFs/452834/StarrInsure_RECEIPT_FEB-21-2019-8-0-21.pdf"
+            }
+          ]
+        }
+      ],
+      "Key": "ISO::BOP::DocumentsInfoList"
+    }
+  ],
+  "ruleInformationList": [],
+  "ResponseStatus": "SUCCESS"
+}

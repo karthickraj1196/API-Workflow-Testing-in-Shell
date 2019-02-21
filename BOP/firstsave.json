@@ -1,0 +1,15 @@
+{
+  "ResponseStatus": "ERROR",
+  "MessageDetail": {
+    "MessageCode": "ERR421",
+    "MessageType": "VALIDATION",
+    "UserMessage": "You do not have access to this service or this service is not valid ",
+    "MessageLevel": "MODULE",
+    "MessageSeverity": "HIGH",
+    "MessageList": {
+      "Message": [
+        "You do not have access to this service or this service is not valid "
+      ]
+    }
+  }
+}

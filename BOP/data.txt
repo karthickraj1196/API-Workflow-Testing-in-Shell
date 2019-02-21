@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AuthenticationSvcRq xmlns:ns2="http://www.solartis.net/schema/ServiceRequest">
+    <ServiceRequestDetail>
+        <ns2:ServiceRequestVersion>2.0</ns2:ServiceRequestVersion>
+        <ns2:OwnerId>41</ns2:OwnerId>
+        <ns2:BrowserIp>192.168.5.169</ns2:BrowserIp>
+    </ServiceRequestDetail>
+    <UserCredential>
+        <UserName>britecoagent</UserName>
+        <Password>sKVSbX7wj8UYYAaar4amxQ==
+</Password>
+    </UserCredential>
+</AuthenticationSvcRq>
