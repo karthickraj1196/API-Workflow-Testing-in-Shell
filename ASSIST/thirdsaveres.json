@@ -1,0 +1,25 @@
+{
+  "RequestStatus": "SUCCESS",
+  "RuleInformationList": [],
+  "CustomerInformation": {
+    "AgentID": "718",
+    "MGACode": "3391",
+    "ProducerCode": "1558",
+    "OwnerId": "15",
+    "EventName": "CreateCustomer",
+    "PolicyEffectiveDate": "12/30/2018",
+    "PlanName": "Basic Annual",
+    "PlanCode": "9",
+    "TripCancellationCoverage": "With Trip Cancellation",
+    "StateCode": "CO",
+    "StateName": "Colorado",
+    "CustomerReferenceNumber": "J19S1276",
+    "PlanType": "Annual",
+    "TravelerList": [
+      {
+        "TravelerDOB": "12/16/2016",
+        "TravelerIndex": "1"
+      }
+    ]
+  }
+}

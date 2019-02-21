@@ -1,0 +1,43 @@
+{
+  "RequestStatus": "SUCCESS",
+  "RuleInformationList": [],
+  "CustomerReferenceNumber": "J19S1276",
+  "CustomerName": "Traveler M",
+  "PolicyBatch": {
+    "BatchNumber": "BAT108699",
+    "TotalPolicyPremium": "$149.80",
+    "PaymentStatus": "Paid",
+    "PolicyEffectiveDate": "12/30/2018",
+    "PolicyExpirationDate": "12/29/2019",
+    "PlanName": "Basic Annual",
+    "StateCode": "CO",
+    "StateName": "Colorado",
+    "Documents": [
+      {
+        "DocumentType": "RECEIPT",
+        "DocumentName": "RECEIPT_Frederick_444661283_FEB-21-2019-8-0-23",
+        "DocumentURL": "https://qapdfservice.solartis.net/DocRetriever/Document/Starr/Assist/QuotePDFs/108699/RECEIPT_Frederick_444661283_FEB-21-2019-8-0-23.pdf"
+      },
+      {
+        "DocumentType": "POLICY",
+        "DocumentName": "POLICY_BAT108699_1797065581_FEB-21-2019-8-0-26",
+        "DocumentURL": "https://qapdfservice.solartis.net/DocRetriever/Document/Starr/Assist/QuotePDFs/108699/POLICY_BAT108699_1797065581_FEB-21-2019-8-0-26.pdf"
+      }
+    ],
+    "Policies": [
+      {
+        "PolicyNumber": "70100853",
+        "TravelerIndex": "1",
+        "TravelerPremium": "$149.80",
+        "TravelerDOB": "10/07/1999",
+        "Documents": [
+          {
+            "DocumentType": "POLICY_COI",
+            "DocumentName": "POLICY_COI_Traveler_M_1138193984_FEB-21-2019-8-0-24",
+            "DocumentURL": "https://qapdfservice.solartis.net/DocRetriever/Document/Starr/Assist/QuotePDFs/108699/POLICY_COI_Traveler_M_1138193984_FEB-21-2019-8-0-24.pdf"
+          }
+        ]
+      }
+    ]
+  }
+}

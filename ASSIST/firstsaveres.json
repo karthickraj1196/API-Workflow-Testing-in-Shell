@@ -1,0 +1,16 @@
+{
+  "RequestStatus": "SUCCESS",
+  "RuleInformationList": [],
+  "CustomerInformation": {
+    "AgentID": "937",
+    "AgencyID": "6383",
+    "MGACode": "3391",
+    "ProducerCode": "1558",
+    "OwnerId": "15",
+    "EventName": "CreateCustomerV2",
+    "StateCode": "FL",
+    "StateName": "Florida",
+    "CustomerReferenceNumber": "J19S1276",
+    "PlanType": "Single Trip"
+  }
+}
